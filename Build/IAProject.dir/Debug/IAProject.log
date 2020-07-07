@@ -1,0 +1,115 @@
+﻿  Gui.cpp
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.h(64,58): warning C4244: 'argument' : conversion de 'const int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.h(64,40): warning C4244: 'argument' : conversion de 'const int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(39,17): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(54,92): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(54,69): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(55,96): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(55,73): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(61,93): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(61,70): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(67,72): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(67,54): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(262,26): warning C4996: 'sf::Text::setColor': a été déclaré déconseillé
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(272,89): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(273,89): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(296,55): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(296,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Gui.cpp(297,26): warning C4996: 'sf::Text::setColor': a été déclaré déconseillé
+  IAProject.vcxproj -> C:\Users\pinar\Desktop\Projet_C++\IAProject\Build\Debug\IAProject.exe

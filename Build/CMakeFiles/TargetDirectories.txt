@@ -1,0 +1,3 @@
+C:/Users/pinar/Desktop/Projet_C++/IAProject/Build/CMakeFiles/IAProject.dir
+C:/Users/pinar/Desktop/Projet_C++/IAProject/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pinar/Desktop/Projet_C++/IAProject/Build/CMakeFiles/ZERO_CHECK.dir
